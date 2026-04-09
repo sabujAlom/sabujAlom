@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujAlom\&show_icons=true\&theme=radical)
+![Sabuj's GitHub stats]([https://github-readme-stats.vercel.app/api?sabujAlom\&show_icons=true\&theme=radical](https://github-readme-stats.vercel.app/api?username=sabujAlom&show_icons=true&theme=radical))
 
 ---
 
