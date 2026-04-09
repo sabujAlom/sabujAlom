@@ -1,15 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Sabuj
 
-**sabujAlom/sabujAlom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | React Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧑‍💻 About Me
 
+* 🌱 I’m currently learning **React & Next.js**
+* 💡 Interested in **Web Development & UI Design**
+* 🎯 Goal: Become a **Full Stack Developer**
+* ⚡ Fun fact: I love solving coding problems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+* HTML | CSS | TailWindcss | JavaScript
+* React | Next.js
+
+### ⚙️ Tools
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Sabuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabujAlom\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sabujAlom\&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sabujalom19/?skipRedirect=true
+* 📧 Email: sabujalom18@gmail.com
+
+---
+
+## ✨ Featured Projects
+
+* 🚀 Project 1 - Short description
+* 💡 Project 2 - Short description
+* 🔥 Project 3 - Short description
+
+---
+
+⭐️ From [Sabuj](https://github.com/sabujAlom)
