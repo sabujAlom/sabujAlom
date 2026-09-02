@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <h1>Hi 👋, I'm Sabuj Alom</h1>
@@ -27,13 +28,13 @@
 
 I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and scalable web applications. I enjoy solving real-world problems through clean, maintainable, and user-friendly solutions.
 
-* 💻 Specialized in **JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB**
-* 🚀 Experienced in building **full-stack web applications**
-* 🔐 Interested in **Authentication, Authorization, REST APIs, and secure web applications**
-* 🏗️ Experienced with **CRUD operations, dashboards, API integration, and responsive UI**
-* 🌱 Currently improving my skills in **TypeScript and modern web development**
-* 🎯 Focused on becoming a stronger **Full-Stack Developer**
-* 💼 Open to **Full-time, Remote, and Software Engineering opportunities**
+- 💻 Specialized in **JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB**
+- 🚀 Experienced in building **full-stack web applications**
+- 🔐 Interested in **Authentication, Authorization, REST APIs, and secure web applications**
+- 🏗️ Experienced with **CRUD operations, dashboards, API integration, and responsive UI**
+- 🌱 Currently improving my skills in **TypeScript and modern web development**
+- 🎯 Focused on becoming a stronger **Full-Stack Developer**
+- 💼 Open to **Full-time, Remote, and Software Engineering opportunities**
 
 ---
 
@@ -51,12 +52,12 @@ A modern marketplace where users can buy and sell products through a responsive 
 
 **Key Features:**
 
-* 🔐 Authentication & protected routes
-* 🛍️ Product listing and management
-* 🔎 Search & filtering
-* 📊 Dashboard functionality
-* 📝 Complete CRUD operations
-* 📱 Fully responsive UI
+- 🔐 Authentication & protected routes
+- 🛍️ Product listing and management
+- 🔎 Search & filtering
+- 📊 Dashboard functionality
+- 📝 Complete CRUD operations
+- 📱 Fully responsive UI
 
 <p>
   <a href="https://resell-hub-client-three.vercel.app/">
@@ -78,12 +79,12 @@ A modern full-stack platform where users can discover and book study rooms.
 
 **Key Features:**
 
-* 🔐 User authentication
-* 📅 Study room booking
-* 🏠 Room browsing & management
-* 👤 User dashboard
-* 📱 Responsive design
-* ⚡ Modern user experience
+- 🔐 User authentication
+- 📅 Study room booking
+- 🏠 Room browsing & management
+- 👤 User dashboard
+- 📱 Responsive design
+- ⚡ Modern user experience
 
 <p>
   <a href="https://assignment-9-study-nook-two.vercel.app/">
@@ -105,11 +106,11 @@ A modern web application for discovering, browsing, and managing books.
 
 **Key Features:**
 
-* 📚 Book collection & browsing
-* 🔐 Authentication
-* 🔎 Search & filtering
-* 📝 Book management
-* 📱 Responsive UI
+- 📚 Book collection & browsing
+- 🔐 Authentication
+- 🔎 Search & filtering
+- 📝 Book management
+- 📱 Responsive UI
 
 <p>
   <a href="https://github.com/sabujAlom">
@@ -169,11 +170,11 @@ A modern web application for discovering, browsing, and managing books.
 
 ## 🌱 Currently Learning
 
-* 🔷 **TypeScript**
-* 🍃 **Mongoose**
-* ⚛️ **Advanced React & Next.js**
-* 🔄 **Redux Toolkit**
-* 🏗️ **Scalable Full-Stack Architecture**
+- 🔷 **TypeScript**
+- 🍃 **Mongoose**
+- ⚛️ **Advanced React & Next.js**
+- 🔄 **Redux Toolkit**
+- 🏗️ **Scalable Full-Stack Architecture**
 
 ---
 
@@ -193,13 +194,11 @@ A modern web application for discovering, browsing, and managing books.
 
 ---
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/sabujAlom/sabujAlom/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -228,3 +227,4 @@ A modern web application for discovering, browsing, and managing books.
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+```
