@@ -193,15 +193,7 @@ A modern web application for discovering, browsing, and managing books.
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabujAlom&theme=react-dark&hide_border=true" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
